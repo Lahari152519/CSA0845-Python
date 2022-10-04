@@ -9,3 +9,5 @@
 8. Valid numbers
 9. Guests (cruise)
 10. Modify string
+11. Staircase
+12. Leap year
