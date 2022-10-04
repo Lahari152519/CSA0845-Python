@@ -11,3 +11,7 @@
 10. Modify string
 11. Staircase
 12. Leap year
+13. Maximum number of words
+14. Merge two sorted lists
+15. Basic calculator
+16. Generate parantheses
