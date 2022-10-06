@@ -1,4 +1,5 @@
-# CSA0845-Python
+# CSA0845-python
+DAY-1 :
 1. Isomarphic
 2. Sum of squares
 3. Happy numbers
@@ -9,6 +10,7 @@
 8. Valid numbers
 9. Guests (cruise)
 10. Modify string
+DAY-2 :
 11. Staircase
 12. Leap year
 13. Maximum number of words
