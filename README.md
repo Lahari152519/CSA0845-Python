@@ -17,5 +17,9 @@ DAY-2 :
 12. Leap year
 13. Maximum number of words
 14. Merge two sorted lists
-15. Basic calculator
-16. Generate parantheses
+15. Telephone digits
+16. Basic calculator
+17. Generate parantheses
+18. Entire input string
+19. Seasons
+20. Remove words
