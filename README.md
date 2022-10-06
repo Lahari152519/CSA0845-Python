@@ -10,6 +10,8 @@ DAY-1 :
 8. Valid numbers
 9. Guests (cruise)
 10. Modify string
+
+
 DAY-2 :
 11. Staircase
 12. Leap year
